@@ -1,4 +1,4 @@
-tickets  = int(input('Колличество билетов:'))
+tickets  = int(input('Количество билетов:'))
 result = 0
 
 for person in range(tickets):
